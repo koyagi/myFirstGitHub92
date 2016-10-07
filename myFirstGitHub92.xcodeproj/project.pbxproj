@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		21CAEF101DA7E21A00758CF3 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		21CAEF111DA7E21A00758CF3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+			};
+			buildConfigurationList = 21CAEF141DA7E21A00758CF3 /* Build configuration list for PBXProject "myFirstGitHub92" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 21CAEF101DA7E21A00758CF3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		21CAEF151DA7E21A00758CF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		21CAEF161DA7E21A00758CF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		21CAEF141DA7E21A00758CF3 /* Build configuration list for PBXProject "myFirstGitHub92" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				21CAEF151DA7E21A00758CF3 /* Debug */,
+				21CAEF161DA7E21A00758CF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 21CAEF111DA7E21A00758CF3 /* Project object */;
+}
