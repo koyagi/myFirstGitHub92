@@ -6,10 +6,29 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		21CAEF171DAB2A7800758CF3 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		21CAEF181DAB2A7800758CF3 /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		21CAEF191DAB2A7800758CF3 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
+		21CAEF1A1DAB2A7800758CF3 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		21CAEF1B1DAB2A7800758CF3 /* feed.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = feed.xml; sourceTree = "<group>"; };
+		21CAEF1C1DAB2A7800758CF3 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		21CAEF1D1DAB2A7800758CF3 /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
+		21CAEF1E1DAB2A7800758CF3 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		21CAEF101DA7E21A00758CF3 = {
 			isa = PBXGroup;
 			children = (
+				21CAEF171DAB2A7800758CF3 /* _config.yml */,
+				21CAEF181DAB2A7800758CF3 /* _posts */,
+				21CAEF191DAB2A7800758CF3 /* about.md */,
+				21CAEF1A1DAB2A7800758CF3 /* css */,
+				21CAEF1B1DAB2A7800758CF3 /* feed.xml */,
+				21CAEF1C1DAB2A7800758CF3 /* Gemfile */,
+				21CAEF1D1DAB2A7800758CF3 /* Gemfile.lock */,
+				21CAEF1E1DAB2A7800758CF3 /* index.html */,
 			);
 			sourceTree = "<group>";
 		};
