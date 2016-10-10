@@ -29,3 +29,5 @@ This is test for include tag.
 {% highlight c++ linenos %}
 {% include howdy.cpp %}
 {% endhighlight %}
+
+[anotherfile](anotherfile.html)
