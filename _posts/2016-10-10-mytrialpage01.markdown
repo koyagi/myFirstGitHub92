@@ -43,3 +43,15 @@ int main(int argc, char** argv) {
     return 0;
 }
 {% endhighlight %}
+
+This is test for include tag.
+
+{% highlight c++ linenos %}
+{% include howdy.cpp %}
+{% endhighlight %}
+
+あと、日本語使えますかねぇ？
+
+いや、完璧ちゃう？
+
+次はgithub-pages連携や！
